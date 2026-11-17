@@ -72,10 +72,10 @@ Learn by making. Stay curious on purpose. Treat new tools as things to understan
 -->
 <div align="center">
 <a href="https://github.com/rolysajwan">
-<img height="170" alt="GitHub stats for rolysajwan (view on GitHub)" src="https://github-readme-stats.vercel.app/api?username=rolysajwan&show_icons=true&hide_border=true&bg_color=02030a&title_color=8a4dff&text_color=c5cde0&icon_color=2f6bff">
+<img height="170" alt="GitHub stats for rolysajwan (view on GitHub)" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rolysajwan&show_icons=true&hide_border=true&bg_color=02030a&title_color=8a4dff&text_color=c5cde0&icon_color=2f6bff">
 </a>
 <a href="https://github.com/rolysajwan">
-<img height="170" alt="Most used languages for rolysajwan (view on GitHub)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolysajwan&layout=compact&hide_border=true&bg_color=02030a&title_color=8a4dff&text_color=c5cde0">
+<img height="170" alt="Most used languages for rolysajwan (view on GitHub)" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rolysajwan&layout=compact&hide_border=true&bg_color=02030a&title_color=8a4dff&text_color=c5cde0">
 </a>
 </div>
 
