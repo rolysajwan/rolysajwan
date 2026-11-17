@@ -64,25 +64,21 @@ Learn by making. Stay curious on purpose. Treat new tools as things to understan
 <img src="./assets/divider.svg" alt="" width="100%">
 </div>
 
-`// 05 — ACTIVITY`
+`// 05 — GITHUB OVERVIEW`
 
-<!--
-  Stats come from a third-party service (github-readme-stats). I could not verify the endpoint while building this,
-  so the alt text is the fallback. If the cards ever look broken, delete this block; nothing else depends on it.
--->
 <div align="center">
-<a href="https://github.com/rolysajwan">
-<img height="170" alt="GitHub stats for rolysajwan (view on GitHub)" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rolysajwan&show_icons=true&hide_border=true&bg_color=02030a&title_color=8a4dff&text_color=c5cde0&icon_color=2f6bff">
-</a>
-<a href="https://github.com/rolysajwan">
-<img height="170" alt="Most used languages for rolysajwan (view on GitHub)" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rolysajwan&layout=compact&hide_border=true&bg_color=02030a&title_color=8a4dff&text_color=c5cde0">
-</a>
+<img src="./assets/overview.svg" alt="GitHub overview — exploring, building, learning" width="100%">
 </div>
 
-<!--
-  TECHNOLOGIES: intentionally omitted. They should be verified against your real repositories first.
-  Tell me which ones you actually use and I'll add a small icon row.
--->
+I use GitHub as a place to explore ideas, build things, and learn by experimenting. My focus is on understanding how technology works and turning that curiosity into practical projects.
+
+- **Explore** — discover new tools, ideas, and approaches.
+- **Build** — turn concepts into small, useful experiments.
+- **Improve** — learn from each iteration and keep refining.
+
+<div align="center">
+<a href="https://github.com/rolysajwan?tab=repositories">EXPLORE MY REPOSITORIES ↗</a>
+</div>
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%">
