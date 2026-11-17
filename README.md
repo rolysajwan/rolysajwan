@@ -1,93 +1,67 @@
-<div align="center">
-
-<picture>
+<div align="center"><picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.svg">
-  <img src="./assets/hero.svg" alt="ROLY SAJWAN — Beyond the Interface. Exploring what's next. Building what's possible." width="100%">
-</picture>
+  <img src="./assets/hero.svg" alt="Rahul Sajwan — Technology, Creativity and Development" width="100%">
+</picture>Technology · Creativity · Digital Development
 
-**Exploring what's next. Building what's possible.**
+<img src="./assets/divider.svg" alt="" width="100%"></div><br>"// 01 — ABOUT ME"
 
-<img src="./assets/divider.svg" alt="" width="100%">
+Hi, I'm Rahul Sajwan.
 
-</div>
+I'm interested in technology, software development, and creating digital experiences that bring ideas to life.
 
-<br>
+My interests span web development, artificial intelligence, automation, modern software tools, and digital design. I enjoy exploring new technologies, working on practical ideas, and finding ways to combine functionality with a clean, thoughtful user experience.
 
-`// 01 — SIGNAL`
+I believe good projects come from a balance of clear thinking, attention to detail, and a willingness to explore better approaches.
 
-### Hi, I'm Roly.
-
-I like finding out how things work, and then wondering what else they could do.
-
-Right now that curiosity points at AI, code, and the digital tools that are quietly changing how we make things. I'm not here to claim a title. I'm here to try things, break them, understand them a little better, and keep going.
-
-This page is about what pulls me in, not about any one project. Projects will come and go. The curiosity is the constant.
+This GitHub profile showcases my projects, ideas, and work across technology and digital development.
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%">
-</div>
-
-`// 02 — AREAS OF EXPLORATION`
+</div>"// 02 — AREAS OF INTEREST"
 
 <div align="center">
-<img src="./assets/interests.svg" alt="Six areas of interest orbiting a central node labelled curiosity: artificial intelligence, coding and software, emerging technologies, automation and tools, creative technology, continuous learning." width="100%">
-</div>
-
-- **Artificial intelligence** — AI systems, generative AI, AI-assisted workflows, and the changing relationship between people and technology.
-- **Coding & software** — writing code and understanding how digital experiences are built.
-- **Emerging technologies** — new tools, experiments, and ideas that could shape what comes next.
-- **Automation & tools** — how digital tools can simplify tasks and make creative work more efficient.
-- **Creative technology** — mixing technology, design, and experimentation to find new digital possibilities.
-- **Continuous learning** — staying curious and gradually widening my understanding of how technology works.
+<img src="./assets/interests.svg" alt="Technology, AI, software, automation and creative development" width="100%">
+</div>- Web Development — Websites, digital platforms, and modern web experiences.
+- Artificial Intelligence — AI tools, generative technologies, and practical applications.
+- Software & Technology — Exploring software, development tools, and emerging technologies.
+- Automation — Finding practical ways to simplify workflows and improve efficiency.
+- UI/UX & Digital Design — Creating clear, visually consistent, and user-friendly interfaces.
+- Creative Projects — Combining technology, design, and ideas to build useful digital experiences.
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%">
-</div>
-
-`// 03 — THE TECHNOLOGY OBSERVATORY`
+</div>"// 03 — TECHNOLOGY OBSERVATORY"
 
 <div align="center">
-<img src="./assets/observatory.svg" alt="Conceptual orbital diagram connecting AI, coding, automation and emerging technology. It contains no real data." width="100%">
-</div>
-
-<sub>A conceptual picture of how these areas connect for me. Not a dashboard, not data.</sub>
+<img src="./assets/observatory.svg" alt="A visual representation of connected technology interests" width="100%">
+</div><sub>Different technologies, connected by ideas, creativity, and practical applications.</sub>
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%">
-</div>
+</div>"// 04 — MY APPROACH"
 
-`// 04 — HOW I LEARN`
+I focus on practical ideas, thoughtful implementation, and continuous improvement. Whether working on a website or exploring a new tool, I value functionality, visual consistency, and the overall experience.
 
-Learn by making. Stay curious on purpose. Treat new tools as things to understand, not just use. Keep the parts that work, and keep improving the rest.
-
-<div align="center">
-<img src="./assets/divider.svg" alt="" width="100%">
-</div>
-
-`// 05 — GITHUB OVERVIEW`
-
-<div align="center">
-<img src="./assets/overview.svg" alt="GitHub overview — exploring, building, learning" width="100%">
-</div>
-
-I use GitHub as a place to explore ideas, build things, and learn by experimenting. My focus is on understanding how technology works and turning that curiosity into practical projects.
-
-- **Explore** — discover new tools, ideas, and approaches.
-- **Build** — turn concepts into small, useful experiments.
-- **Improve** — learn from each iteration and keep refining.
-
-<div align="center">
-<a href="https://github.com/rolysajwan?tab=repositories">EXPLORE MY REPOSITORIES ↗</a>
-</div>
+My goal is to create digital work that is useful, well-presented, and built with attention to detail.
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%">
-</div>
-
-`// 06 — CONNECT`
-
-[github.com/rolysajwan](https://github.com/rolysajwan)
+</div>"// 05 — PROJECTS & DEVELOPMENT"
 
 <div align="center">
-<img src="./assets/footer.svg" alt="ROLY SAJWAN — Always exploring. Always evolving." width="100%">
-</div>
+<img src="./assets/overview.svg" alt="Exploring ideas, developing projects, and improving digital experiences" width="100%">
+</div>I use GitHub to maintain my projects, organize code, and share my work.
+
+One of my projects is DevGanga Amrit, a brand inspired by the spiritual heritage of Devprayag. The project brings together brand identity, website development, and a digital presence built around its cultural and spiritual concept.
+
+I'm interested in building projects that connect technology with practical ideas and thoughtful design.
+
+<div align="center"><a href="https://github.com/rolysajwan?tab=repositories">EXPLORE MY REPOSITORIES ↗</a>
+
+</div><div align="center">
+<img src="./assets/divider.svg" alt="" width="100%">
+</div>"// 06 — CONNECT"
+
+<div align="center"><a href="https://github.com/rolysajwan">GITHUB PROFILE ↗</a>
+
+<img src="./assets/footer.svg" alt="Rahul Sajwan — Technology, Creativity and Development" width="100%"></div>
